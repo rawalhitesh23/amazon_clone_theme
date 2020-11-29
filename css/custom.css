@@ -23,3 +23,7 @@ hr.hr-text::before {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.drawer {
+    transition: .5s ;
+}
